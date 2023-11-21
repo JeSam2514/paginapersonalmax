@@ -1,0 +1,31 @@
+.iconos{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 50px;
+}
+
+.centrar{
+    text-align: center;
+}
+
+table th {
+    text-align: center;
+  }
+
+td{
+    text-align: center;
+}
+
+.container{
+    color: white;
+}
+
+.body{
+    background-color: rgb(49, 47, 47);
+}
+
+.icono{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 50px;
+}
